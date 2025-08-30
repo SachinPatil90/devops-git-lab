@@ -5,3 +5,5 @@ filters:
     values: [high, medium, low]
   - name: env
     values: [prod, stg, dev]
+  - name: level
+    values: [debug, info, error]
